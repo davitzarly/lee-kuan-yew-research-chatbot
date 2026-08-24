@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What did Lee Kuan Yew emphasize about Singapore's foreign policy?",
+    "expected_source_topic": "foreign policy",
+    "check": "Mention sovereignty, useful relationships, and national interests without inventing a quotation."
+  },
+  {
+    "question": "How did Lee Kuan Yew discuss education?",
+    "expected_source_topic": "education and human capital",
+    "check": "Connect education and human capability with overcoming resource constraints."
+  },
+  {
+    "question": "How did he approach difficult national problems?",
+    "expected_source_topic": "governance and problem solving",
+    "check": "Emphasize confronting problems and resolving them collectively."
+  },
+  {
+    "question": "What principle did he express about Singapore's multiracial society?",
+    "expected_source_topic": "multiracial society",
+    "check": "Mention equal place regardless of language, culture, or religion."
+  }
+]
