@@ -1,4 +1,4 @@
-# Weekly IG Post Generator
+# lee-kuan-yew-research-chatbot
 
 An AI-assisted workflow concept for generating weekly Instagram content for Rumah123 from property news or topics.
 
